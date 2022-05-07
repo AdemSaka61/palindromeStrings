@@ -1,0 +1,2 @@
+# palindromeStrings
+palindrom kelimelerin kontrolu
